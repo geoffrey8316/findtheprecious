@@ -107,7 +107,7 @@
     <h2>Contact us</h2>
     <form>
      <input type="text" placeholder="@" name="mail" id="mail" required/>
-     <input name="adresse" type="text" placeholder="Adresse" />
+     <input name="adress" type="text" placeholder="Adress" />
      <select name="subject" id="subject">
       <option selected>I have seen one of them</option>
       <option>I have captured one of them</option>
