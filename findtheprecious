@@ -25,9 +25,11 @@
     <section id="Fellows" class="title">
       <h2>Fellows</h2>
       <h3>Fellows wanted dead (or alive, if you want to eat them later)</h3>
+   <ul>
       <li>Most wanted</li>
       <li>Most dangerous</li>
       <li>Already captured</li>
+   </ul>
 			<article>
 				<a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt=""></a>
 				<h3>The Wizard</h3>
