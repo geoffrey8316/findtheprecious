@@ -111,7 +111,7 @@
      <select name="subject" id="subject">
       <option selected>I have seen one of them</option>
       <option>I have captured one of them</option>
-      <option>I want to join your army</option>
+      <option>Join your army</option>
      </select>
       <p>Message</p>
         <textarea rows="10" cols="80">Your message</textarea>
