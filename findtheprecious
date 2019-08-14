@@ -100,38 +100,20 @@
         mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.</p>
     </section>
 
-    <section>
-    <br>
-      <h2 id="Contactus" class="Contact">CONTACT US</h2>
-      <form>
-          <fieldset>
-            <legend>Contact Us</legend>
-              <div>
-                  <label for="emailinput">Email adress</label>
-                  <input type="text" name="email" id="emailinput" placeholder="Youremail@adress.com" required>
-              </div>
-              <div> 
-                  <label>Name</label>
-		  <input type="text" name="name" id="nameinput">
-              </div>
-	      <div> 
-                  <label>Subject</label>
-                  <select name="subject" id="subjectemail">
-                      <option>I have seen one of them</option>
-                      <option>I have captured one of them</option>
-                  </select>
-              </div>
-          
-              <div>
-                  <label for="message">Your message</label>
-                  <textarea name="message" id="message" cols="30" rows="10"></textarea>
-              </div>
-                  <input type="submit" value="Send">
-          </fieldset>
-      </form>
-
-
-    </section>
+    <section id="contact">
+    <h2>Contact us</h2>
+    <form>
+     <input type="text" placeholder="@" name="mail" id="mail" required/>
+     <input name="adresse" type="text" placeholder="Adresse" />
+     <select name="subject" id="subject">
+      <option selected>I have seen one of them</option>
+      <option>I have captured one of them</option>
+      <option>I want to join your army</option>
+     </select>
+      <p>Message</p>
+        <textarea rows="10" cols="80">Your message</textarea>
+    </form>
+</section>
 
   </main>
   <footer>
