@@ -25,9 +25,7 @@
     <section id="Fellows" class="title">
       <h2>Fellows</h2>
       <h3>Fellows wanted dead (or alive, if you want to eat them later)</h3>
-     <div>Most wanted</div>
-			<div>Most dangerous</div>
-			<div>Already captured</div>
+      <p>- Most wanted  - Most dangerous - Already captured </p>
 			<article>
 				<a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt=""></a>
 				<h3>The Wizard</h3>
@@ -137,7 +135,8 @@
 
   </main>
   <footer>
-    <p>About us - FAQ<br> Fellows - Reward conditions <br> Join our Army - Legal mentions<br> Sauron4Ever.com<br> Follow him also on twitter</p>
+    <p>- About us - FAQ - Fellows - Reward conditions - Join our Army - Legal mentions</p> 
+    <p> Sauron4Ever.com Follow him also on twitter</p>
   </footer>
 </body>
 </html>
