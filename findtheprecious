@@ -25,11 +25,11 @@
   <main>
     <section id="Fellows" class="title">
       <h2>Fellows</h2>
-      <h3>Fellows wanted dead (or alive, if you want to eat them later)</h3>
+      <p>Fellows wanted dead (or alive, if you want to eat them later)</p>
    <ul>
-      <li>Most wanted</li>
-      <li>Most dangerous</li>
-      <li>Already captured</li>
+      <li><a href="">Most wanted</a></li>
+      <li><a href="">Most dangerous</a></li>
+      <li><a href="">Already captured</a></li>
    </ul>
       <article>
 	 <a href="https://placeholder.com"><img src="https://via.placeholder.com/150" alt=""></a>
@@ -60,7 +60,7 @@
       </section>
       
       <section id="Besthunters" class="title">
-      <h2>Best Hunters</h2>
+        <h2>Best Hunters</h2>
             <a href="https://placeholder.com"><img src="https://via.placeholder.com/100" alt=""></a>
 				<p>ElvesKiller22 <br/> 2 captures - Profile</p>
 
@@ -71,7 +71,7 @@
 
     <section>
       <h2 id="TheRing" class="title">The Ring</h2>
-      <h3>Ring capabilities</h3>
+      <p>Ring capabilities</p>
 
       <table>
         <thead>
@@ -100,34 +100,34 @@
     </section>
     
     <section>
-    <h3 id="Jointhearmy" class="Army">Join Mordor Army, we need you !</h3>
+      <h3 id="Jointhearmy" class="Army">Join Mordor Army, we need you !</h3>
       <a href="https://placeholder.com"><img src="https://via.placeholder.com/140" alt=""></a>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non,
         mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.</p>
-    <p>More info on SauronRulesThemAll.com</p>
+      <p>More info on SauronRulesThemAll.com</p>
     </section>
 
     <section id="contact">
-    <h2>Contact us</h2>
-    <form>
-     <label id="emailinput">Email</label>
-     <input type="email" placeholder="@" name="mail" id="mail" required/>
+      <h2>Contact us</h2>
+     <form action="email@adress.com" method="POST">
+       <label id="emailinput">Email</label>
+       <input type="email" placeholder="@" name="mail" id="mail" required/>
      
-     <label id="adressinput">Adress</label>
-     <input name="adress" type="text" placeholder="Adress" />
+       <label id="adressinput">Adress</label>
+       <input type="text" name="adress"  placeholder="Adress" />
      
-     <label id="subject">Subject</label>
-     <select name="subject" id="subjectemail">
-      <option selected>I have seen one of them</option>
-      <option>I have captured one of them</option>
-      <option>Join your army</option>
-     </select>
-      <p>Message</p>
-        <textarea rows="10" cols="80">Your message</textarea>
+       <label id="subject">Subject</label>
+       <select name="subject" id="subjectemail">
+        <option selected>I have seen one of them</option>
+        <option>I have captured one of them</option>
+        <option>Join your army</option>
+       </select>
+        <p>Message</p>
+          <textarea rows="10" cols="80">Your message</textarea>
 	
-      <input type="submit" value="Send">
-    </form>
-</section>
+        <input type="submit" value="Send">
+      </form>
+    </section>
 
   </main>
   <footer>
